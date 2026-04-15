@@ -14,3 +14,4 @@ I also do not have the time to carry on with this project, as I want to move on 
 - 2x HC-SR501 PIR Motion sensors
 - 1x ESP32 Dev Board
 - 1x LRS Compact 5V 18A 100W PSU
+- 300 WS2812B LED's 
